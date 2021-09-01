@@ -8,20 +8,19 @@ I am currently working as a research assistant under [Dr. Kevin A. McCabe](https
 During my reu experience I have helped contribute to the following projects <br>
 
 1. [Decentralized Exchanges](https://github.com/gmucsn/workshop_2021/tree/main/project_amm) (ongoing)
-    * We had the opportunity to model the Uniswap v2 Exchange using [mTree](https://github.com/gmucsn/mTree)(python library for creating concurrent ABMs) 
+    * We had the opportunity to model the Uniswap v2 Exchange using [mTree](https://github.com/gmucsn/mTree)(python library for creating concurrent ABMs).
 
 2. [Transaction Escrow](https://github.com/gmucsn/reu_2020_main) 
-    * We created an experiment in mTree to study online transaction escrow mechanism. (ongoing)
+    * We created an experiment in mTree to study the effects of online transaction escrow mechanism on trading behavior. (ongoing)
   
 3. [Voluntary Contribution Mechanism](https://github.com/gmucsn/reu_2020_vcm)(VCM)
-    * Created an Agent Based Model to recreate VCM in mTree 
+    * Created an Agent Based Model to recreate VCM in mTree. 
 
-## Skills 
+<!-- ## Skills 
 ![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalinbhatt&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalinbhatt)](https://github.com/anuraghazra/github-readme-stats)
-
-
+ -->
 ## Contact Info 
 You can connect with me using Linkedin [![LinkedIn][2.2]][2] or reach me through my email <a href="mailto:nbhatt2@gmu.edu">nbhatt2@gmu.edu</a>
 
