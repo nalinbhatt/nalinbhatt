@@ -1,7 +1,7 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 
 
 I am Nalin Bhatt. I am a senior Economics major with a double Minor in Data Analysis and Math at George Mason University. 
-I am currently working as a research assistant under [Dr. Kevin A. McCabe](https://github.com/Kmccabe) at 
+I am currently working as a research assistant under [Dr. Kevin McCabe](https://github.com/Kmccabe) at 
 [The Center for the Study of Neuroeconomics](https://github.com/gmucsn). 
 
 ## Projects 
