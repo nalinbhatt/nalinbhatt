@@ -13,4 +13,10 @@ During my reu experience I have helped contribute to the following projects <br>
 3. [Voluntary Contribution Mechanism](https://github.com/gmucsn/reu_2020_vcm)
     * Created an Agent Based Model to recreate VCM in mTee
 
-(I am interested in...) 
+
+![Nalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalinbhatt&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalinbhatt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
