@@ -10,7 +10,7 @@ During my reu experience I have helped contribute to the following projects <br>
 2. [Transaction Escrow](https://github.com/gmucsn/reu_2020_main) 
     * We created an experiment in mTree to study online transaction escrow mechanism. (ongoing)
   
-3. [Voluntary Contribution Mechanism](https://github.com/gmucsn/reu_2020_vcm)
+3. [Voluntary Contribution Mechanism](https://github.com/gmucsn/reu_2020_vcm)(VCM)
     * Created an Agent Based Model to recreate VCM in mTee
 
 
