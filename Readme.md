@@ -27,7 +27,7 @@ During my reu experience, I have contributed to the following projects <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalinbhatt)](https://github.com/anuraghazra/github-readme-stats)
  -->
 ## Contact Info 
-You can find me on Linkedin [![LinkedIn][2.2]][2] or contact me through my email <a href="mailto:nbhatt2@gmu.edu">nbhatt2@gmu.edu</a>
+You can find me on Linkedin [![LinkedIn][2.2]][2] or contact me through my email <a href="mailto:nalinb@uchicago.edu">nalinb@uchicago.edu</a>
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
