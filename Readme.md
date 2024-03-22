@@ -6,7 +6,8 @@ I did my undergraduate degree in Economics with a double Minor in Data Analysis 
 I previously worked as an Economics Intern at [Agoric](https://agoric.com/roadmap) under Dr. Bill Tulloh and before that I was a research assistant to [Dr. Kevin McCabe](https://github.com/Kmccabe) at [The Center for the Study of Neuroeconomics](https://github.com/gmucsn). 
 
 ## Projects 
-During my reu experience, I have contributed to the following projects <br>
+I have contributed to the following projects <br>
+
 1. [Inter Protocol ABM](https://github.com/gmucsn/block_chain)
     * Created an ABM model to represent Inter Protocol
     * Created Actors to represent Vaults, Automated Market Maker , Parity Stability Module, and Liquidator 
