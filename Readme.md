@@ -1,14 +1,18 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 
 
-I am Nalin Bhatt. I did my undergraduate degree in Economics with a double Minor in Data Analysis and Math from George Mason University(class of 2021). 
-I am currently working as a research assistant under [Dr. Kevin McCabe](https://github.com/Kmccabe) at 
-[The Center for the Study of Neuroeconomics](https://github.com/gmucsn). 
+I am Nalin Bhatt. I am currently pursuing a MA in Computational Social Science (Econ Concentration) at The University of Chicago. 
+I did my undergraduate degree in Economics with a double Minor in Data Analysis and Math from George Mason University(class of 2021). 
+
+I previously worked as an Economics Intern at [Agoric](https://agoric.com/roadmap) under Dr. Bill Tulloh and before that I was a research assistant to [Dr. Kevin McCabe](https://github.com/Kmccabe) at [The Center for the Study of Neuroeconomics](https://github.com/gmucsn). 
 
 ## Projects 
 During my reu experience, I have contributed to the following projects <br>
-
+1. [Inter Protocol ABM](https://github.com/gmucsn/block_chain)
+    * Created an ABM model to represent Inter Protocol
+    * Created Actors to represent Vaults, Automated Market Maker , Parity Stability Module, and Liquidator 
 1. [Decentralized Exchanges](https://github.com/gmucsn/workshop_2021/tree/main/project_amm) (ongoing)
     * We are currently modelling the Uniswap v2 Exchange using [mTree](https://github.com/gmucsn/mTree)(python library for creating concurrent ABMs).
+    * Working paper [Modeling Arbitrage with an Automated Market Maker](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4247283)
 
 2. [Transaction Escrow](https://github.com/gmucsn/reu_2020_main) 
     * We created an experiment in mTree to study the effects of online transaction escrow mechanism on trading behavior. (ongoing)
