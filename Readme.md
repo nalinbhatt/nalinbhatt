@@ -6,7 +6,7 @@ I did my undergraduate degree in Economics with a double Minor in Data Analysis 
 I previously worked as an Economics Intern at [Agoric](https://agoric.com/roadmap) under Dr. Bill Tulloh and before that I was a research assistant to [Dr. Kevin McCabe](https://github.com/Kmccabe) at [The Center for the Study of Neuroeconomics](https://github.com/gmucsn). 
 
 ## Thesis Related 
-*. [Comparing Economic Efficiency between Bilateral Exchange and Automated Market Makers for P2P Energy Markets](https://github.com/nalinbhatt/p2p_solar_abm)
+1.  [Comparing Economic Efficiency between Bilateral Exchange and Automated Market Makers for P2P Energy Markets](https://github.com/nalinbhatt/p2p_solar_abm)
     - Translated MASON Java Model to Python from Monroe et. al 2023 *"Evaluating Peer-to-Peer Electricity Markets across the U.S. Using an Agent-Based Modeling Approach"*
     - Replicated baseline results from a detailed model of solar electricity production and demand 
     - Compared the performance of agents when Automated Market Makers were used as a means of exchange 
