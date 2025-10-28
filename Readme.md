@@ -3,7 +3,7 @@
 I am Nalin Bhatt. I am a graduate of MA in Computational Social Science with a concentration in Economics at The University of Chicago (Aug 2025). 
 I did my undergraduate degree in Economics with a double Minor in Data Analysis and Math from George Mason University (class of 2021). 
 
-I am currently working as a Research Intern at [Eudoxys LLC](https://www.eudoxys.com) under Dr. David Chassin. 
+I am currently working as a Research Intern at [Eudoxys Sciences LLC](https://www.eudoxys.com) under Dr. David Chassin. 
 I previously worked as an Economics Intern at [Agoric](https://agoric.com/roadmap) under Dr. Bill Tulloh and before that I was a research assistant to [Dr. Kevin McCabe](https://github.com/Kmccabe) at [The Center for the Study of Neuroeconomics](https://github.com/gmucsn). 
 
 ## Eudoxys Sciences LLC Internship (Current) [FidoPower](https://github.com/fidopower/optimal_sizing_placement)
