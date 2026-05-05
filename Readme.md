@@ -8,8 +8,8 @@ I am currently working as a Power Market Analyst in the Data Analysis team, unde
 Before that I working as a Research Intern at [Eudoxys Sciences LLC](https://www.eudoxys.com) under Dr. David Chassin. 
 I previously worked as an Economics Intern at [Agoric](https://agoric.com/roadmap) under Dr. Bill Tulloh and before that I was a research assistant to [Dr. Kevin McCabe](https://github.com/Kmccabe) at [The Center for the Study of Neuroeconomics](https://github.com/gmucsn). 
 
-## Eudoxys Sciences LLC Internship (Current) [FidoPower](https://github.com/fidopower/optimal_sizing_placement)
-My current duties include
+## Eudoxys Sciences LLC Internship [FidoPower](https://github.com/fidopower/optimal_sizing_placement)
+My duties included
 - Aiding in the implementation of the Optimal Power Flow (OPF) and the Optimal Sizing Problem (OSP) using cvxpy in GridlabD
 -  Validating OPF and OSP solutions using pypower test cases and comparing results with a third party solver
 
